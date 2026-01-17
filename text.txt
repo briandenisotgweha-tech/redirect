@@ -1,0 +1,52 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Patient Registration</title>
+  <meta http-equiv="refresh" content="2;url=https://docs.google.com/forms/d/e/1FAIpQLScltLyFgtkzvgKYoJ-aFCyCUWyXQYZXyfmiWt4qUCGvs7i1RA/viewform">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6f8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .box {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      max-width: 400px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h2 { color: #0a7cff; }
+    p { color: #555; }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background: #0a7cff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+    <h2>Patient Registration</h2>
+    <p>You will be redirected to the registration form.</p>
+    <p>If not redirected, tap the button below.</p>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScltLyFgtkzvgKYoJ-aFCyCUWyXQYZXyfmiWt4qUCGvs7i1RA/viewform">
+      Open Form
+    </a>
+  </div>
+</body>
+</html>
